@@ -1,0 +1,10 @@
+.hypthesis
+.venv
+__pycache__
+*.pyc
+.idea
+.git
+.gitignore
+dist
+build
+*.log

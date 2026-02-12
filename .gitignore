@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.hypthesis/
+.venv/
+venv/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Docker
+*.log
